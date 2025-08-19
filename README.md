@@ -4,7 +4,7 @@ To Learn to spot and remove potentially harmful browser extensions.
 ##  Objective
 To learn how to spot and remove potentially harmful browser extensions and ensure browser security.
 
-## 🛠 Tools Used
+##  Tools Used
 - Google Chrome Browser
 - Extension Manager (chrome://extensions/)
 
